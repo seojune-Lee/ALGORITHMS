@@ -1,2 +1,3 @@
 # ALGORITHMS
+-정보올림피아드
 ALGO_BY_BOJ_SWEA
